@@ -25,8 +25,6 @@ The script has several settings that can be adjusted using console commands:
 
 - **Snow Density**: Controls the number of snowflakes on the screen. snowflakes_enabled 1 (1 — enabled, 0 — disabled)
 
-- **Snow Textures**: Enables or disables the replacement of textures with snow textures. snow_texture_enabled 1 (1 — enabled, 0 — disabled)
-
 ## Features
 
 - **Snowflakes**: Snowflakes fall from the sky and react to wind.
